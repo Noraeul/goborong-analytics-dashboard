@@ -1,0 +1,479 @@
+﻿Customer ID,Name,Age,Gender,Product Preference,Member Status,Frequency,Total_Spending,Total_Quantity,Average_Order_Value,Age Group,Cluster,Cluster Label
+CUST0097,,,,,Non-Member,4,7946265,1023,1986566.25,,,
+CUST0052,Bagas Wijaya,27.0,Laki-laki,Parfume,Member,1,275275,5,275275.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0450,,,,,Non-Member,2,3436880,185,1718440.0,,,
+CUST0157,Farhan Lestari,49.0,Perempuan,,Member,1,636995,51,636995.0,Dewasa Matang,,
+CUST0535,Andi Nugroho,43.0,Perempuan,Parfume,Member,3,1842233,38,614077.6666666666,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0493,Bagas Wijaya,22.0,Perempuan,Skincare,Member,4,5003288,75,1250822.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0259,,,,,Non-Member,3,880461,37,293487.0,,,
+CUST0303,Andi Hidayat,28.0,Laki-laki,MakeUp,Member,4,568937,13,142234.25,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0049,Fajar Pratama,39.0,Perempuan,Skincare,Member,4,633841,16,158460.25,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0405,Fajar Lestari,47.0,,,Member,6,143151336,2670,23858556.0,Dewasa Matang,,
+CUST0238,Rania Pratama,35.0,Perempuan,MakeUp,Member,6,179487502,592,29914583.666666668,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0087,Citra Nugroho,23.0,Perempuan,Packaging,Member,5,166796713,1654,33359342.6,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0444,Citra Kusuma,34.0,Perempuan,Parfume,Member,1,29900,1,29900.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0136,Fajar Wijaya,39.0,Laki-laki,Perawatan Tubuh,Member,4,433412,11,108353.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0540,,,,,Non-Member,5,93985715,1819,18797143.0,,,
+CUST0120,Arif Pratama,29.0,Perempuan,Kosmetik,Member,4,8076135,9,2019033.75,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0093,,,,,Non-Member,4,595913,12,148978.25,,,
+CUST0207,Farhan Anggraini,21.0,Perempuan,Skincare,Member,2,2197639,39,1098819.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0523,Rania Ramadhan,26.0,Perempuan,Parfume,Member,5,4154128,83,830825.6,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0503,Fajar Lestari,28.0,Perempuan,Perawatan Rambut,Member,4,1019998,18,254999.5,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0077,Arif Saputra,31.0,Laki-laki,Skincare,Member,4,3258008,63,814502.0,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0457,Rania Puspita,36.0,Perempuan,,Member,2,258261,6,129130.5,Dewasa,,
+CUST0331,Nadia Anggraini,,Perempuan,Skincare,Member,2,2951772,60,1475886.0,,,
+CUST0210,Dimas Mahendra,27.0,Laki-laki,Packaging,Member,6,5914450,321,985741.6666666666,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0197,Putri Nugroho,43.0,Perempuan,Perawatan Rambut,Member,3,24116910,334,8038970.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0298,Arif Wulandari,25.0,Perempuan,Kosmetik,Member,5,4257985,68,851597.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0222,Nadia Lestari,27.0,Laki-laki,Skincare,Member,2,357750,10,178875.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0153,Alya Mahendra,37.0,Laki-laki,Perawatan Rambut,Member,2,354532,6,177266.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0141,Fajar Permata,28.0,Perempuan,Skincare,Member,5,5742472,16,1148494.4,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0432,Bagas Putri,41.0,Laki-laki,Perawatan Tubuh,Member,3,227167,7,75722.33333333333,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0218,Citra Permata,,Perempuan,MakeUp,Member,2,236132,8,118066.0,,,
+CUST0019,Alya Saputra,31.0,Laki-laki,Perawatan Tubuh,Member,6,29655536,722,4942589.333333333,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0058,Dinda Lestari,49.0,Laki-laki,Perawatan Tubuh,Member,3,1451020,8,483673.3333333333,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0079,Citra Pratama,17.0,Perempuan,MakeUp,Member,4,5774100,9,1443525.0,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0484,Andi Putri,29.0,Perempuan,Skincare,Member,5,5124882,62,1024976.4,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0134,Farhan Lestari,18.0,Perempuan,Skincare,Member,2,1915939,9,957969.5,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0080,Fajar Permata,42.0,Perempuan,Packaging,Member,1,254372,6,254372.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0065,,,,,Non-Member,5,15054407,1389,3010881.4,,,
+CUST0482,Rizky Sari,,Perempuan,Skincare,Member,3,7743174,73,2581058.0,,,
+CUST0422,Reza Wijaya,30.0,Perempuan,Perawatan Rambut,Member,5,14683045,427,2936609.0,Dewasa,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0333,Andi Pratama,49.0,Laki-laki,Packaging,Member,2,804328,117,402164.0,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0098,Arif Hidayat,28.0,Laki-laki,Packaging,Member,2,5667703,670,2833851.5,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0438,Arif Mahendra,25.0,Laki-laki,Packaging,Member,5,17952266,1962,3590453.2,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0403,Ilham Mahendra,38.0,Laki-laki,Parfume,Member,2,330330,6,165165.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0060,Ilham Sari,35.0,Laki-laki,Packaging,Member,2,20198150,1192,10099075.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0480,,,,,Non-Member,3,39540569,2403,13180189.666666666,,,
+CUST0278,Nadia Permata,27.0,Perempuan,Skincare,Member,7,46425426,992,6632203.714285715,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0159,Rania Nugroho,38.0,Laki-laki,Kosmetik,Member,3,1121997,9,373999.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0409,Aurel Wulandari,35.0,Laki-laki,Skincare,Member,2,281056,5,140528.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0554,,,,,Non-Member,6,49819346,1905,8303224.333333333,,,
+CUST0228,Aurel Wijaya,32.0,Perempuan,Skincare,Member,6,3716072,82,619345.3333333334,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0366,Dinda Pratama,36.0,Laki-laki,Packaging,Member,3,91396519,1238,30465506.333333332,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0088,,,,,Non-Member,2,602674,14,301337.0,,,
+CUST0427,Fajar Ramadhan,43.0,Perempuan,Packaging,Member,4,13739513,1966,3434878.25,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0135,Farhan Lestari,24.0,Perempuan,Skincare,Member,5,6508535,60,1301707.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0070,,,,,Non-Member,2,475200,9,237600.0,,,
+CUST0227,,,,,Non-Member,3,11353600,8,3784533.3333333335,,,
+CUST0119,Citra Wulandari,36.0,Laki-laki,Packaging,Member,4,6746606,229,1686651.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0318,Putri Anggraini,41.0,Laki-laki,Beauty Case,Member,3,23070720,7,7690240.0,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0504,Dimas Anggraini,45.0,Perempuan,Kosmetik,Member,2,1074263,9,537131.5,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0417,Ilham Putri,21.0,Perempuan,Skincare,Member,3,17440183,634,5813394.333333333,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0190,Putri Wulandari,19.0,Perempuan,Skincare,Member,5,776162,12,155232.4,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0539,Rania Sari,30.0,Laki-laki,Packaging,Member,1,35484,3,35484.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0483,Andi Putri,32.0,Perempuan,MakeUp,Member,3,39691063,610,13230354.333333334,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0115,Citra Sari,17.0,Perempuan,Skincare,Member,4,895246,17,223811.5,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0057,Aurel Ramadhan,39.0,Perempuan,Packaging,Member,5,39868939,1406,7973787.8,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0213,Reza Ramadhan,51.0,Laki-laki,Perawatan Tubuh,Member,5,642978,12,128595.6,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0420,Nadia Ramadhan,43.0,Laki-laki,Packaging,Member,4,72805575,1100,18201393.75,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0269,Alya Mahendra,36.0,Perempuan,Beauty Case,Member,2,35584000,24,17792000.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0089,,,,,Non-Member,5,27910481,662,5582096.2,,,
+CUST0017,Rafi Anggraini,33.0,Laki-laki,MakeUp,Member,4,657174,14,164293.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0415,Farhan Wijaya,24.0,Perempuan,Parfume,Member,3,710895,14,236965.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0258,Aurel Wulandari,29.0,Laki-laki,Kosmetik,Member,3,241830585,322,80610195.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0328,Rafi Permata,41.0,Perempuan,Packaging,Member,3,24820413,1262,8273471.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0437,Ilham Permata,40.0,Perempuan,Skincare,Member,4,1333716,17,333429.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0392,Andi Putri,37.0,Laki-laki,Perawatan Tubuh,Member,3,2956626,6,985542.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0524,Rafi Wijaya,61.0,Perempuan,Packaging,Member,3,13471522,1445,4490507.333333333,Lansia,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0211,,,,,Non-Member,6,101528277,2025,16921379.5,,,
+CUST0498,Fajar Wijaya,38.0,Laki-laki,Perawatan Tubuh,Member,3,310182,8,103394.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0071,,,,,Non-Member,5,4196825,78,839365.0,,,
+CUST0434,Nadia Wulandari,32.0,Laki-laki,Tas,Member,4,94798026,501,23699506.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0453,Nadia Mahendra,35.0,Laki-laki,Skincare,Member,1,164785,5,164785.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0365,Bagas Permata,26.0,Perempuan,Packaging,Member,4,251657516,1547,62914379.0,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0125,Aurel Pratama,33.0,Laki-laki,Skincare,Member,1,64017,3,64017.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0169,Fajar Sari,37.0,Perempuan,Parfume,Member,4,855159,12,213789.75,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0236,Alya Anggraini,22.0,Laki-laki,Perawatan Tubuh,Member,2,5877233,6,2938616.5,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0293,Dinda Saputra,23.0,Laki-laki,,Member,3,11536356,397,3845452.0,Dewasa Muda,,
+CUST0381,Putri Ramadhan,41.0,Laki-laki,Skincare,Member,4,497260,16,124315.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0061,,,,,Non-Member,2,325204,6,162602.0,,,
+CUST0464,,,,,Non-Member,1,268027,3,268027.0,,,
+CUST0206,Farhan Pratama,49.0,Laki-laki,Kosmetik,Member,4,1133583,12,283395.75,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0212,Rizky Wijaya,25.0,,Skincare,Member,4,28199129,384,7049782.25,Dewasa Muda,,
+CUST0010,,,,,Non-Member,5,15838717,14,3167743.4,,,
+CUST0362,Bagas Hidayat,38.0,Perempuan,Packaging,Member,3,189115053,1437,63038351.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0372,,,,,Non-Member,2,408408,9,204204.0,,,
+CUST0456,Nabila Nugroho,27.0,Laki-laki,Perawatan Rambut,Member,5,1404083,24,280816.6,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0391,Ilham Mahendra,25.0,Perempuan,Packaging,Member,4,56662158,1159,14165539.5,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0379,,,,,Non-Member,4,681707,16,170426.75,,,
+CUST0100,Ilham Ramadhan,37.0,Perempuan,Parfume,Member,3,2584940,10,861646.6666666666,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0024,Dimas Hidayat,36.0,Perempuan,Perawatan Rambut,Member,4,1693148,26,423287.0,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0035,,,,,Non-Member,4,1656750,24,414187.5,,,
+CUST0101,Fajar Putri,36.0,Perempuan,Perawatan Rambut,Member,8,62448212,827,7806026.5,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0021,Fira Pratama,21.0,Perempuan,MakeUp,Member,3,823128,25,274376.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0282,Dinda Lestari,32.0,Laki-laki,Packaging,Member,2,4480091,255,2240045.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0377,Fajar Nugroho,17.0,Tidak Menjawab,MakeUp,Member,2,708153,12,354076.5,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0343,Aurel Hidayat,49.0,Laki-laki,Packaging,Member,3,1787099,149,595699.6666666666,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0091,Fajar Hidayat,30.0,Laki-laki,Skincare,Member,2,1866364,36,933182.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0338,Dinda Nugroho,17.0,Perempuan,Beauty Case,Member,7,504535508,262,72076501.14285715,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0494,Nabila Putri,25.0,Laki-laki,Tas,Member,4,6370385,20,1592596.25,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0075,Fira Anggraini,17.0,Laki-laki,Skincare,Member,7,1092997,24,156142.42857142858,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0054,Rizky Anggraini,62.0,Laki-laki,Packaging,Member,2,77848,13,38924.0,Lansia,0.0,Laki-laki Dewasa Packaging
+CUST0532,,,,,Non-Member,6,41815377,2541,6969229.5,,,
+CUST0316,Fira Anggraini,26.0,Perempuan,Skincare,Member,3,31442613,430,10480871.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0436,Fira Puspita,33.0,Perempuan,Packaging,Member,2,3901869,595,1950934.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0124,Nadia Wulandari,47.0,Laki-laki,Perawatan Rambut,Member,4,6576437,55,1644109.25,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0237,Farhan Wijaya,36.0,Perempuan,Skincare,Member,1,91800,2,91800.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0375,Putri Pratama,39.0,Perempuan,Perawatan Tubuh,Member,4,1181002,25,295250.5,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0336,Alya Kusuma,37.0,Perempuan,Packaging,Member,5,61449390,2300,12289878.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0463,Fira Permata,27.0,Perempuan,MakeUp,Member,3,647390,9,215796.66666666666,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0421,Dimas Anggraini,31.0,Laki-laki,Packaging,Member,4,10354482,1050,2588620.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0219,Salsa Puspita,24.0,Perempuan,Packaging,Member,2,3562013,46,1781006.5,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0527,,,,,Non-Member,4,15781615,293,3945403.75,,,
+CUST0309,Salsa Putri,22.0,Laki-laki,Perawatan Tubuh,Member,1,81081,2,81081.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0064,Dinda Wulandari,17.0,Perempuan,Skincare,Member,4,2759337,38,689834.25,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0066,Farhan Permata,38.0,Laki-laki,Packaging,Member,2,750735,207,375367.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0232,Fajar Ramadhan,32.0,Perempuan,Skincare,Member,1,154715,4,154715.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0092,Fira Pratama,30.0,Perempuan,Skincare,Member,3,283434,12,94478.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0319,Dimas Lestari,34.0,Tidak Menjawab,MakeUp,Member,2,23238955,337,11619477.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0530,Farhan Wijaya,19.0,Perempuan,Perawatan Rambut,Member,8,62526489,998,7815811.125,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0187,Rizky Wulandari,38.0,Perempuan,Packaging,Member,6,120838043,1962,20139673.833333332,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0180,,,,,Non-Member,5,63764498,2605,12752899.6,,,
+CUST0205,Aurel Pratama,45.0,Perempuan,Packaging,Member,6,474956,62,79159.33333333333,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0176,Nabila Kusuma,19.0,Laki-laki,Perawatan Rambut,Member,2,1018050,10,509025.0,Remaja,0.0,Laki-laki Dewasa Packaging
+CUST0369,Putri Mahendra,41.0,Perempuan,Perawatan Tubuh,Member,2,186186,3,93093.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0418,Aurel Saputra,31.0,Perempuan,MakeUp,Member,1,488505,6,488505.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0353,Ilham Lestari,17.0,Laki-laki,Packaging,Member,2,10646831,29,5323415.5,Remaja,0.0,Laki-laki Dewasa Packaging
+CUST0263,Farhan Mahendra,36.0,,Perawatan Tubuh,Member,5,330094,9,66018.8,Dewasa,,
+CUST0095,Reza Ramadhan,,Perempuan,Skincare,Member,2,1530349,46,765174.5,,,
+CUST0546,Fajar Wijaya,34.0,Perempuan,Beauty Case,Member,1,6451200,4,6451200.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0201,Fajar Pratama,29.0,Perempuan,Parfume,Member,3,4924524,73,1641508.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0122,Andi Saputra,35.0,,Packaging,Member,2,3450217,613,1725108.5,Dewasa,,
+CUST0083,,,,,Non-Member,2,774082,7,387041.0,,,
+CUST0500,,,,,Non-Member,3,22414173,352,7471391.0,,,
+CUST0332,Nabila Lestari,35.0,Laki-laki,Perawatan Tubuh,Member,3,14676475,546,4892158.333333333,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0547,Dinda Anggraini,35.0,,Packaging,Member,3,2867999,289,955999.6666666666,Dewasa,,
+CUST0382,Citra Kusuma,37.0,,Kosmetik,Member,3,1047184,9,349061.3333333333,Dewasa,,
+CUST0155,Rania Kusuma,33.0,Perempuan,Beauty Case,Member,1,9602560,2,9602560.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0226,Arif Puspita,17.0,Perempuan,Skincare,Member,6,17305152,621,2884192.0,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0016,,,,,Non-Member,4,34235392,12,8558848.0,,,
+CUST0047,Rania Permata,,Perempuan,Parfume,Member,4,3174491,15,793622.75,,,
+CUST0402,Salsa Lestari,17.0,Perempuan,Packaging,Member,4,34826224,2651,8706556.0,Remaja,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0531,,,,,Non-Member,4,6946234,406,1736558.5,,,
+CUST0029,Ilham Mahendra,46.0,Perempuan,Beauty Case,Member,4,775456988,549,193864247.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0357,Arif Puspita,38.0,Laki-laki,Perawatan Rambut,Member,4,201820124,636,50455031.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0404,Ilham Puspita,29.0,Perempuan,Kosmetik,Member,3,643705,11,214568.33333333334,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0559,Rizky Sari,27.0,Perempuan,Skincare,Member,3,1595888,11,531962.6666666666,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0168,,,,,Non-Member,1,5113470,148,5113470.0,,,
+CUST0027,Farhan Hidayat,40.0,Perempuan,,Member,5,2858891,85,571778.2,Dewasa Matang,,
+CUST0477,Fajar Mahendra,25.0,Laki-laki,MakeUp,Member,6,12173830,154,2028971.6666666667,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0165,Ilham Ramadhan,23.0,Perempuan,Parfume,Member,5,8186157,13,1637231.4,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0069,,,,,Non-Member,1,13895,2,13895.0,,,
+CUST0129,Farhan Lestari,,Perempuan,Packaging,Member,8,90065599,3816,11258199.875,,,
+CUST0448,Rafi Anggraini,36.0,Perempuan,Skincare,Member,1,235645,8,235645.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0315,Rania Nugroho,28.0,Perempuan,Perawatan Rambut,Member,2,765450,11,382725.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0084,,,,,Non-Member,1,50050,1,50050.0,,,
+CUST0534,Bagas Kusuma,29.0,Perempuan,MakeUp,Member,3,306278,7,102092.66666666667,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0443,Rafi Sari,,Perempuan,Perawatan Tubuh,Member,1,185697,4,185697.0,,,
+CUST0400,Reza Permata,25.0,Perempuan,Skincare,Member,4,12256415,17,3064103.75,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0102,Fira Hidayat,21.0,Perempuan,Skincare,Member,2,371234,6,185617.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0374,Salsa Nugroho,25.0,Laki-laki,Beauty Case,Member,2,55744000,14,27872000.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0209,,,,,Non-Member,6,111624264,609,18604044.0,,,
+CUST0411,Ilham Sari,34.0,Perempuan,Skincare,Member,6,170046355,1003,28341059.166666668,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0254,Dimas Sari,22.0,Perempuan,MakeUp,Member,2,706065,11,353032.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0051,,,,,Non-Member,2,196656,27,98328.0,,,
+CUST0022,Alya Saputra,33.0,Laki-laki,Kosmetik,Member,3,1092126,12,364042.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0161,Salsa Wijaya,,Laki-laki,Beauty Case,Member,2,58024174,16,29012087.0,,,
+CUST0224,,,,,Non-Member,3,12581820,7,4193940.0,,,
+CUST0231,Rizky Hidayat,24.0,Perempuan,MakeUp,Member,2,1319026,31,659513.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0214,Dimas Nugroho,25.0,Perempuan,Packaging,Member,3,7170681,266,2390227.0,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0271,Aurel Hidayat,52.0,Tidak Menjawab,Packaging,Member,2,16204503,1068,8102251.5,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0445,Ilham Ramadhan,37.0,Perempuan,Skincare,Member,1,97910,2,97910.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0273,Ilham Kusuma,27.0,Laki-laki,Skincare,Member,2,375005,9,187502.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0182,,,,,Non-Member,4,3190175,113,797543.75,,,
+CUST0465,Fajar Lestari,27.0,Perempuan,Skincare,Member,2,228317,5,114158.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0378,Fira Puspita,29.0,Laki-laki,Perawatan Tubuh,Member,2,358037,8,179018.5,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0265,Rania Wijaya,31.0,,Skincare,Member,2,2602533,42,1301266.5,Dewasa,,
+CUST0172,Rania Permata,46.0,Perempuan,Tas,Member,7,260747978,894,37249711.14285714,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0094,Rizky Ramadhan,30.0,Perempuan,Skincare,Member,3,718723,10,239574.33333333334,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0469,Citra Lestari,32.0,Laki-laki,Skincare,Member,1,336204,14,336204.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0162,,,,,Non-Member,5,42067041,2940,8413408.2,,,
+CUST0253,Nadia Sari,34.0,Perempuan,Skincare,Member,2,12281200,234,6140600.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0144,Bagas Mahendra,35.0,Perempuan,,Member,6,49789162,2426,8298193.666666667,Dewasa,,
+CUST0459,,,,,Non-Member,4,3686778,126,921694.5,,,
+CUST0345,Rafi Wijaya,53.0,Perempuan,Perawatan Tubuh,Member,6,46697718,1251,7782953.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0081,Dimas Saputra,29.0,Perempuan,Skincare,Member,2,416517,4,208258.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0299,Salsa Wulandari,41.0,Perempuan,Beauty Case,Member,1,2594304,2,2594304.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0346,Rizky Wulandari,28.0,Perempuan,Packaging,Member,3,4577559,377,1525853.0,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0252,Andi Puspita,24.0,Laki-laki,MakeUp,Member,4,2234052,44,558513.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0406,,,,,Non-Member,5,2226410,48,445282.0,,,
+CUST0006,,,,,Non-Member,2,10247985,183,5123992.5,,,
+CUST0435,Arif Wulandari,33.0,Perempuan,MakeUp,Member,2,383539,4,191769.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0076,Ilham Hidayat,28.0,Perempuan,Skincare,Member,5,3407508,48,681501.6,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0284,,,,,Non-Member,1,112258,36,112258.0,,,
+CUST0034,Salsa Puspita,36.0,Laki-laki,Perawatan Tubuh,Member,4,1901836,74,475459.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0121,Nabila Puspita,31.0,Perempuan,Skincare,Member,1,114784,2,114784.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0452,Dimas Pratama,29.0,Perempuan,Skincare,Member,2,364480,9,182240.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0380,Rania Wijaya,17.0,Perempuan,Perawatan Rambut,Member,4,42563054,642,10640763.5,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0251,Fira Saputra,38.0,Perempuan,Perawatan Tubuh,Member,5,414336,14,82867.2,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0082,Alya Sari,21.0,Perempuan,MakeUp,Member,2,1130012,14,565006.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0330,Rizky Kusuma,28.0,Perempuan,Packaging,Member,4,1563748,44,390937.0,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0492,Aurel Lestari,37.0,Laki-laki,Packaging,Member,3,33421878,1117,11140626.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0351,Arif Ramadhan,42.0,Perempuan,Tas,Member,3,15307915,13,5102638.333333333,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0511,Andi Mahendra,49.0,Perempuan,MakeUp,Member,1,432785,4,432785.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0360,,,,,Non-Member,2,8563200,5,4281600.0,,,
+CUST0268,,,,,Non-Member,3,39607792,45,13202597.333333334,,,
+CUST0510,Rizky Saputra,39.0,Perempuan,MakeUp,Member,3,354424,9,118141.33333333333,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0272,Dimas Lestari,41.0,Perempuan,Kosmetik,Member,1,407086,4,407086.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0221,,,,,Non-Member,2,292292,5,146146.0,,,
+CUST0468,,,,,Non-Member,3,845064,16,281688.0,,,
+CUST0235,Rizky Mahendra,36.0,Perempuan,Beauty Case,Member,4,29919520,9,7479880.0,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0358,Dimas Puspita,46.0,Perempuan,Perawatan Tubuh,Member,5,24682578,709,4936515.6,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0133,Alya Lestari,44.0,Perempuan,Packaging,Member,2,7972521,933,3986260.5,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0107,Bagas Lestari,17.0,Perempuan,Skincare,Member,4,7150143,165,1787535.75,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0140,Citra Anggraini,23.0,Perempuan,Skincare,Member,3,567675,14,189225.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0105,Fajar Mahendra,23.0,,Beauty Case,Member,1,3200000,1,3200000.0,Dewasa Muda,,
+CUST0261,Salsa Anggraini,28.0,Laki-laki,MakeUp,Member,3,4001666,53,1333888.6666666667,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0356,Nadia Lestari,,Perempuan,MakeUp,Member,2,131601,4,65800.5,,,
+CUST0063,Salsa Nugroho,67.0,Laki-laki,Perawatan Tubuh,Member,3,13587303,101,4529101.0,Lansia,0.0,Laki-laki Dewasa Packaging
+CUST0304,,,,,Non-Member,6,24003718,2775,4000619.6666666665,,,
+CUST0294,Rania Lestari,25.0,Laki-laki,Packaging,Member,2,17032441,272,8516220.5,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0394,Andi Nugroho,42.0,,Packaging,Member,3,10993011,975,3664337.0,Dewasa Matang,,
+CUST0553,Farhan Nugroho,34.0,Perempuan,Skincare,Member,5,39582618,595,7916523.6,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0085,Arif Saputra,21.0,Perempuan,Packaging,Member,3,1618615,39,539538.3333333334,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0195,Rania Permata,47.0,Laki-laki,Packaging,Member,4,1663190,56,415797.5,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0344,Farhan Pratama,43.0,Perempuan,Kosmetik,Member,3,719136,9,239712.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0387,Dinda Saputra,25.0,Perempuan,Tas,Member,2,10370784,5,5185392.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0515,,,,,Non-Member,2,145654,7,72827.0,,,
+CUST0132,Farhan Hidayat,19.0,Perempuan,Skincare,Member,2,2273075,12,1136537.5,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0352,Rania Sari,,Perempuan,Skincare,Member,1,127680,3,127680.0,,,
+CUST0068,,,,,Non-Member,5,30719758,1759,6143951.6,,,
+CUST0479,,,,,Non-Member,1,1949200,16,1949200.0,,,
+CUST0111,Dimas Puspita,32.0,Laki-laki,MakeUp,Member,3,11027232,407,3675744.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0137,Bagas Pratama,36.0,Laki-laki,MakeUp,Member,2,563963,6,281981.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0488,Fira Nugroho,22.0,Laki-laki,Perawatan Tubuh,Member,2,156156,6,78078.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0264,Fira Kusuma,33.0,Perempuan,Skincare,Member,1,55055,1,55055.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0413,Nabila Permata,23.0,Perempuan,Skincare,Member,2,465630,19,232815.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0558,Reza Puspita,22.0,Perempuan,Skincare,Member,2,225304,4,112652.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0348,Rafi Ramadhan,17.0,Perempuan,Skincare,Member,7,10304413,33,1472059.0,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0541,Citra Nugroho,28.0,Laki-laki,Skincare,Member,4,15551376,15,3887844.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0466,Rizky Permata,27.0,Perempuan,Packaging,Member,4,96604432,1812,24151108.0,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0112,,,,,Non-Member,6,39562947,979,6593824.5,,,
+CUST0005,,,,,Non-Member,2,140202,4,70101.0,,,
+CUST0194,Putri Anggraini,34.0,Perempuan,Perawatan Tubuh,Member,4,1867533,34,466883.25,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0267,Rizky Puspita,17.0,Perempuan,Packaging,Member,2,5403818,718,2701909.0,Remaja,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0491,Citra Nugroho,41.0,Laki-laki,Tas,Member,4,34148614,53,8537153.5,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0487,Rizky Kusuma,17.0,Laki-laki,MakeUp,Member,3,37458608,140,12486202.666666666,Remaja,0.0,Laki-laki Dewasa Packaging
+CUST0301,Nadia Lestari,28.0,Perempuan,Packaging,Member,3,3179003,196,1059667.6666666667,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0314,Citra Lestari,18.0,Perempuan,MakeUp,Member,3,78910960,230,26303653.333333332,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0156,,,,,Non-Member,5,11345417,1720,2269083.4,,,
+CUST0323,Alya Ramadhan,20.0,Perempuan,Packaging,Member,5,189996884,1242,37999376.8,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0045,Aurel Pratama,17.0,Perempuan,Beauty Case,Member,6,1083978487,680,180663081.16666666,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0150,Fira Wulandari,,Perempuan,Skincare,Member,1,135000,3,135000.0,,,
+CUST0520,Rafi Pratama,31.0,Laki-laki,Beauty Case,Member,1,2675200,2,2675200.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0499,,,,,Non-Member,2,2395412,190,1197706.0,,,
+CUST0414,Dimas Puspita,38.0,Laki-laki,Packaging,Member,4,15490484,1006,3872621.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0368,,,,,Non-Member,2,476733,13,238366.5,,,
+CUST0113,Rafi Puspita,31.0,Perempuan,Skincare,Member,6,965300,25,160883.33333333334,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0028,Rizky Wijaya,25.0,Laki-laki,Perawatan Tubuh,Member,3,429954,17,143318.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0317,Citra Hidayat,27.0,Laki-laki,Skincare,Member,3,664581,13,221527.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0073,,,,,Non-Member,3,3060928,153,1020309.3333333334,,,
+CUST0470,Putri Kusuma,38.0,Perempuan,Beauty Case,Member,2,12196899,7,6098449.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0148,Nabila Hidayat,43.0,Laki-laki,,Member,4,14989562,1502,3747390.5,Dewasa Matang,,
+CUST0184,Farhan Lestari,32.0,Perempuan,Packaging,Member,2,3782675,299,1891337.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0146,Dimas Permata,34.0,Perempuan,Skincare,Member,3,592012,9,197337.33333333334,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0555,Rafi Putri,38.0,Perempuan,Packaging,Member,5,117729290,2313,23545858.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0011,Fira Hidayat,32.0,Laki-laki,Kosmetik,Member,2,1215831,10,607915.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0118,Rafi Wijaya,48.0,Laki-laki,Perawatan Rambut,Member,4,640826,10,160206.5,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0401,Fajar Lestari,28.0,Perempuan,Skincare,Member,3,752757,14,250919.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0412,Rafi Wijaya,35.0,Perempuan,Perawatan Tubuh,Member,3,363125,8,121041.66666666667,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0198,Andi Pratama,26.0,Perempuan,MakeUp,Member,5,37347728,446,7469545.6,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0044,Bagas Hidayat,31.0,Laki-laki,Skincare,Member,3,365354,10,121784.66666666667,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0104,,,,,Non-Member,3,624293,13,208097.66666666666,,,
+CUST0522,,,,,Non-Member,5,35296288,13,7059257.6,,,
+CUST0018,Dimas Sari,28.0,Perempuan,Parfume,Member,3,353597,7,117865.66666666667,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0062,Putri Ramadhan,27.0,Perempuan,Kosmetik,Member,2,982256,11,491128.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0384,Fira Wijaya,31.0,Perempuan,MakeUp,Member,3,381836,8,127278.66666666667,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0359,Rania Hidayat,36.0,Laki-laki,Kosmetik,Member,4,1068409,20,267102.25,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0106,Nabila Pratama,47.0,Perempuan,Packaging,Member,2,19677229,682,9838614.5,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0152,Citra Ramadhan,22.0,Perempuan,Skincare,Member,3,654462,13,218154.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0032,Fira Wijaya,21.0,Tidak Menjawab,Skincare,Member,5,2531673,50,506334.6,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0275,,,,,Non-Member,1,226125,4,226125.0,,,
+CUST0408,Fajar Saputra,36.0,Perempuan,Skincare,Member,3,1562148,52,520716.0,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0451,Aurel Anggraini,36.0,Perempuan,Packaging,Member,2,6511780,283,3255890.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0289,Dimas Mahendra,40.0,,Beauty Case,Member,2,53891718,49,26945859.0,Dewasa Matang,,
+CUST0283,,,,,Non-Member,3,298893,8,99631.0,,,
+CUST0290,Rafi Hidayat,19.0,Laki-laki,Beauty Case,Member,2,17753600,6,8876800.0,Remaja,0.0,Laki-laki Dewasa Packaging
+CUST0046,Arif Anggraini,31.0,Perempuan,Skincare,Member,2,142803,5,71401.5,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0270,Reza Saputra,26.0,Laki-laki,Skincare,Member,5,715357,13,143071.4,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0557,Dimas Saputra,31.0,Perempuan,Skincare,Member,1,241212,3,241212.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0178,Farhan Kusuma,31.0,Perempuan,Skincare,Member,5,2274003,91,454800.6,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0185,Fajar Nugroho,36.0,Perempuan,Packaging,Member,2,9618607,206,4809303.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0199,Fira Ramadhan,43.0,Laki-laki,Parfume,Member,3,6266960,27,2088986.6666666667,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0340,Reza Hidayat,46.0,Perempuan,Perawatan Tubuh,Member,3,500439,13,166813.0,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0388,Dinda Lestari,40.0,Tidak Menjawab,Skincare,Member,8,92250161,1278,11531270.125,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0297,Fajar Putri,33.0,Perempuan,Packaging,Member,6,52925538,2748,8820923.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0337,Nabila Ramadhan,27.0,Perempuan,Perawatan Tubuh,Member,4,4794165,125,1198541.25,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0053,,,,,Non-Member,3,2802556,31,934185.3333333334,,,
+CUST0244,Bagas Pratama,23.0,Perempuan,MakeUp,Member,2,190877,6,95438.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0533,Farhan Wijaya,24.0,Perempuan,Skincare,Member,3,649594,9,216531.33333333334,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0250,Ilham Lestari,37.0,Perempuan,Skincare,Member,2,339722,8,169861.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0460,Nabila Puspita,41.0,Perempuan,Perawatan Rambut,Member,2,308476,7,154238.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0167,Reza Puspita,35.0,Perempuan,Skincare,Member,1,303750,5,303750.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0262,Rafi Puspita,29.0,Laki-laki,Skincare,Member,1,45468,1,45468.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0225,,,,,Non-Member,1,128250,3,128250.0,,,
+CUST0517,Rizky Puspita,33.0,Perempuan,Packaging,Member,2,317593,8,158796.5,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0288,Andi Hidayat,35.0,Perempuan,Skincare,Member,3,246410,6,82136.66666666667,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0286,Alya Lestari,34.0,Perempuan,Skincare,Member,1,16806084,10,16806084.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0256,Citra Putri,35.0,Perempuan,Skincare,Member,1,2430000,48,2430000.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0160,Rizky Puspita,22.0,Laki-laki,Skincare,Member,1,241576,4,241576.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0217,Dimas Lestari,29.0,Perempuan,Skincare,Member,2,6068320,3,3034160.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0043,Salsa Wulandari,20.0,Perempuan,Skincare,Member,2,512380,19,256190.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0410,Rizky Anggraini,29.0,Perempuan,Beauty Case,Member,2,25819665,5,12909832.5,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0371,Nadia Putri,25.0,Perempuan,Skincare,Member,5,20565062,434,4113012.4,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0037,Fajar Hidayat,41.0,Laki-laki,Packaging,Member,5,21084842,1867,4216968.4,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0117,Rafi Puspita,21.0,Perempuan,Skincare,Member,4,1039253,15,259813.25,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0008,Reza Mahendra,26.0,Tidak Menjawab,Skincare,Member,3,457635,13,152545.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0509,Putri Hidayat,26.0,,Perawatan Rambut,Member,5,8476746,27,1695349.2,Dewasa Muda,,
+CUST0020,Andi Permata,21.0,Perempuan,MakeUp,Member,3,1466248,34,488749.3333333333,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0545,Nadia Nugroho,32.0,Laki-laki,Packaging,Member,6,106123397,2791,17687232.833333332,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0026,Citra Wijaya,30.0,Laki-laki,Packaging,Member,5,18945933,1522,3789186.6,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0099,,,,,Non-Member,3,11881497,38,3960499.0,,,
+CUST0544,Farhan Permata,23.0,Perempuan,Skincare,Member,2,2726466,10,1363233.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0036,Rafi Kusuma,59.0,Perempuan,Tas,Member,4,473498675,688,118374668.75,Lansia,1.0,Perempuan Dewasa Skincare - High Value
+CUST0188,Putri Saputra,36.0,Perempuan,Kosmetik,Member,2,1011900,8,505950.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0300,Ilham Ramadhan,33.0,,MakeUp,Member,1,25417,1,25417.0,Dewasa,,
+CUST0002,Andi Saputra,40.0,Perempuan,Packaging,Member,4,199429371,634,49857342.75,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0059,Nabila Pratama,34.0,Laki-laki,Perawatan Tubuh,Member,1,107207,4,107207.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0441,Salsa Anggraini,39.0,Laki-laki,MakeUp,Member,1,1385131,5,1385131.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0313,Fajar Ramadhan,17.0,Perempuan,MakeUp,Member,2,123000,4,61500.0,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0430,,,,,Non-Member,3,2921125,466,973708.3333333334,,,
+CUST0145,,,,,Non-Member,4,56797538,1951,14199384.5,,,
+CUST0033,Fira Hidayat,34.0,Perempuan,MakeUp,Member,1,404538,4,404538.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0191,Dimas Wulandari,34.0,Perempuan,Skincare,Member,3,94347850,355,31449283.333333332,Dewasa,1.0,Perempuan Dewasa Skincare - High Value
+CUST0439,Fira Hidayat,25.0,Perempuan,Packaging,Member,4,329297,33,82324.25,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0255,,,,,Non-Member,6,308975451,64,51495908.5,,,
+CUST0050,Rania Pratama,40.0,Perempuan,Perawatan Rambut,Member,1,200844,4,200844.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0179,Citra Lestari,30.0,Perempuan,MakeUp,Member,5,248091897,78,49618379.4,Dewasa,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0475,Putri Lestari,51.0,Perempuan,Perawatan Tubuh,Member,4,587643,15,146910.75,Dewasa Matang,1.0,Perempuan Dewasa Skincare - High Value
+CUST0386,Andi Lestari,22.0,Perempuan,Skincare,Member,4,1025330,24,256332.5,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0090,Rizky Wulandari,29.0,Tidak Menjawab,Skincare,Member,4,416265,12,104066.25,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0363,,,,,Non-Member,2,9542278,18,4771139.0,,,
+CUST0260,Rafi Puspita,36.0,Perempuan,Packaging,Member,1,407730,66,407730.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0543,Dinda Putri,17.0,Perempuan,Skincare,Member,2,1082996,23,541498.0,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0528,,,,,Non-Member,1,164700,4,164700.0,,,
+CUST0321,Fajar Ramadhan,17.0,Perempuan,Skincare,Member,2,201825,5,100912.5,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0291,Arif Permata,26.0,Laki-laki,Beauty Case,Member,1,2675200,2,2675200.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0485,,,,,Non-Member,3,368018,10,122672.66666666667,,,
+CUST0248,Alya Wulandari,35.0,Laki-laki,Parfume,Member,2,340275,7,170137.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0295,Reza Mahendra,22.0,Laki-laki,MakeUp,Member,4,591708,21,147927.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0428,Nadia Puspita,19.0,Perempuan,MakeUp,Member,1,256000,2,256000.0,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0164,Farhan Mahendra,20.0,Perempuan,MakeUp,Member,3,399085,11,133028.33333333334,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0506,,,,,Non-Member,2,302178,7,151089.0,,,
+CUST0216,Citra Sari,22.0,Perempuan,Skincare,Member,4,871228,17,217807.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0276,Rania Putri,22.0,Perempuan,Skincare,Member,1,110025,3,110025.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0447,Nadia Sari,41.0,Laki-laki,Beauty Case,Member,4,164408179,102,41102044.75,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0204,,,,,Non-Member,2,311209,8,155604.5,,,
+CUST0481,Dinda Mahendra,31.0,Perempuan,Beauty Case,Member,2,10326050,6,5163025.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0335,Rania Permata,26.0,Perempuan,MakeUp,Member,2,1491262,6,745631.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0014,Nabila Puspita,35.0,Perempuan,Perawatan Tubuh,Member,1,188588,7,188588.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0042,Fira Nugroho,38.0,Perempuan,Skincare,Member,2,2040484,43,1020242.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0462,Alya Ramadhan,30.0,Laki-laki,Skincare,Member,2,3547423,8,1773711.5,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0056,Reza Wulandari,67.0,Laki-laki,Packaging,Member,3,143095,19,47698.333333333336,Lansia,0.0,Laki-laki Dewasa Packaging
+CUST0143,Citra Hidayat,32.0,Tidak Menjawab,Skincare,Member,1,406350,1,406350.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0055,Alya Wijaya,25.0,Laki-laki,Skincare,Member,4,885340,23,221335.0,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0274,Alya Lestari,27.0,,Skincare,Member,3,653053,11,217684.33333333334,Dewasa Muda,,
+CUST0229,Putri Nugroho,34.0,Perempuan,Skincare,Member,2,555967,12,277983.5,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0327,Farhan Wijaya,20.0,Perempuan,Skincare,Member,2,216188,5,108094.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0173,,,,,Non-Member,2,28296600,499,14148300.0,,,
+CUST0281,Dimas Wulandari,34.0,Perempuan,Kosmetik,Member,3,2035413,16,678471.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0419,Nadia Lestari,,Perempuan,Perawatan Tubuh,Member,1,87087,3,87087.0,,,
+CUST0241,Fajar Saputra,28.0,Perempuan,MakeUp,Member,4,626126,14,156531.5,Dewasa Muda,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0009,Rafi Wijaya,30.0,Perempuan,Skincare,Member,1,163040,4,163040.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0025,,,,,Non-Member,1,116623,4,116623.0,,,
+CUST0242,Reza Wulandari,26.0,Laki-laki,Skincare,Member,2,167814,4,83907.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0200,Putri Kusuma,30.0,Perempuan,Skincare,Member,4,394612,9,98653.0,Dewasa,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0407,,,,,Non-Member,2,20109440,4,10054720.0,,,
+CUST0334,Fira Lestari,30.0,Perempuan,Skincare,Member,1,168750,3,168750.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0030,,,,,Non-Member,1,1326768,4,1326768.0,,,
+CUST0038,,,,,Non-Member,1,14010058,4,14010058.0,,,
+CUST0431,,,,,Non-Member,2,259980,6,129990.0,,,
+CUST0239,Rania Wijaya,36.0,Laki-laki,,Member,2,4078750,54,2039375.0,Dewasa,,
+CUST0266,Putri Kusuma,20.0,Perempuan,Parfume,Member,1,922299,16,922299.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0302,Rizky Lestari,39.0,Perempuan,,Member,6,93644699,1924,15607449.833333334,Dewasa,,
+CUST0128,Bagas Putri,33.0,Perempuan,Parfume,Member,3,2444090,48,814696.6666666666,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0108,Dinda Pratama,24.0,Perempuan,Beauty Case,Member,1,5306880,3,5306880.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0001,Andi Wulandari,39.0,Perempuan,,Member,3,603215,14,201071.66666666666,Dewasa,,
+CUST0496,Putri Pratama,28.0,Perempuan,Skincare,Member,1,91800,2,91800.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0514,Arif Saputra,24.0,Laki-laki,Packaging,Member,3,12945561,1578,4315187.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0364,Rafi Saputra,,Perempuan,Perawatan Rambut,Member,6,44609957,724,7434992.833333333,,,
+CUST0126,Rania Permata,34.0,Perempuan,Packaging,Member,1,16183312,5,16183312.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0478,,,,,Non-Member,1,272640,5,272640.0,,,
+CUST0012,Putri Anggraini,28.0,Laki-laki,Skincare,Member,3,287083,9,95694.33333333333,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0458,Nadia Ramadhan,37.0,Laki-laki,Packaging,Member,2,226851,30,113425.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0247,Nadia Saputra,27.0,Perempuan,Perawatan Tubuh,Member,2,210158,7,105079.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0473,Aurel Wulandari,38.0,Laki-laki,Packaging,Member,2,18617960,208,9308980.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0426,,,,,Non-Member,1,563060,13,563060.0,,,
+CUST0230,,,,,Non-Member,3,728199,13,242733.0,,,
+CUST0442,Nabila Ramadhan,40.0,,Packaging,Member,1,256446,15,256446.0,Dewasa Matang,,
+CUST0103,Ilham Permata,20.0,Perempuan,Skincare,Member,1,171196,4,171196.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0347,Rizky Wulandari,23.0,Perempuan,Skincare,Member,2,369310,10,184655.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0280,Nadia Permata,34.0,,Parfume,Member,3,744546,15,248182.0,Dewasa,,
+CUST0031,Salsa Sari,37.0,Laki-laki,Skincare,Member,2,483685,11,241842.5,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0086,Farhan Anggraini,31.0,Perempuan,Packaging,Member,2,11678932,708,5839466.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0398,Dinda Putri,44.0,Perempuan,Packaging,Member,3,176208,23,58736.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0139,,,,,Non-Member,1,197665,4,197665.0,,,
+CUST0505,Dimas Permata,36.0,Perempuan,,Member,1,858285,4,858285.0,Dewasa,,
+CUST0350,Nadia Lestari,52.0,Perempuan,Packaging,Member,2,1368666,95,684333.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0429,Aurel Hidayat,25.0,Perempuan,Skincare,Member,1,262955,4,262955.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0455,Rafi Mahendra,28.0,Laki-laki,Parfume,Member,3,602852,11,200950.66666666666,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0287,,,,,Non-Member,1,2903347,3,2903347.0,,,
+CUST0341,,,,,Non-Member,3,934411,13,311470.3333333333,,,
+CUST0175,Fira Sari,34.0,Laki-laki,Packaging,Member,3,9113108,489,3037702.6666666665,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0202,Reza Putri,28.0,Perempuan,Skincare,Member,1,109805,3,109805.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0324,Salsa Putri,35.0,Perempuan,Beauty Case,Member,1,12505600,3,12505600.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0518,Nadia Lestari,26.0,,MakeUp,Member,1,235657,5,235657.0,Dewasa Muda,,
+CUST0171,Fira Pratama,40.0,Perempuan,Beauty Case,Member,2,1157000,4,578500.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0240,,,,,Non-Member,1,105706,2,105706.0,,,
+CUST0040,Arif Lestari,44.0,Laki-laki,Packaging,Member,2,5012579,264,2506289.5,Dewasa Matang,0.0,Laki-laki Dewasa Packaging
+CUST0424,Nadia Wulandari,30.0,Perempuan,MakeUp,Member,1,24654,1,24654.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0474,Ilham Mahendra,20.0,Perempuan,Perawatan Tubuh,Member,1,137067,3,137067.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0486,Bagas Wulandari,20.0,Perempuan,Skincare,Member,1,95928,3,95928.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0296,Rafi Kusuma,19.0,Perempuan,Skincare,Member,1,66615,2,66615.0,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0512,Fajar Wijaya,43.0,Perempuan,Packaging,Member,1,177413,30,177413.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0385,,,,,Non-Member,2,173234,28,86617.0,,,
+CUST0361,Rania Saputra,32.0,Perempuan,Skincare,Member,2,778897,22,389448.5,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0110,Fajar Kusuma,21.0,Perempuan,Skincare,Member,1,135000,3,135000.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0041,Salsa Anggraini,18.0,Perempuan,MakeUp,Member,3,1286082,18,428694.0,Remaja,4.0,Perempuan Dewasa Muda Skincare - High Engagement
+CUST0542,Arif Ramadhan,34.0,Perempuan,MakeUp,Member,1,25417,1,25417.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0537,Dimas Nugroho,,Laki-laki,Packaging,Member,1,490295,100,490295.0,,,
+CUST0497,Citra Mahendra,28.0,Laki-laki,Packaging,Member,1,50566,7,50566.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0142,Putri Nugroho,32.0,Laki-laki,Perawatan Rambut,Member,1,55055,1,55055.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0192,Nadia Ramadhan,33.0,Perempuan,Packaging,Member,1,28817,1,28817.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0454,,,,,Non-Member,2,262675,7,131337.5,,,
+CUST0067,Rizky Anggraini,22.0,Perempuan,Skincare,Member,1,255530,2,255530.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0446,Bagas Sari,40.0,Perempuan,Skincare,Member,1,8791956,232,8791956.0,Dewasa Matang,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0138,Aurel Mahendra,26.0,Perempuan,MakeUp,Member,1,1743692,3,1743692.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0174,,,,,Non-Member,1,9933920,400,9933920.0,,,
+CUST0516,Reza Putri,42.0,Perempuan,Perawatan Rambut,Member,2,752635,10,376317.5,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0433,Arif Puspita,21.0,Perempuan,Skincare,Member,1,55200000,50,55200000.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0339,Putri Sari,43.0,Perempuan,Packaging,Member,1,633881,74,633881.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0123,Salsa Anggraini,25.0,Perempuan,Perawatan Rambut,Member,1,2158621,36,2158621.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0376,Rafi Wijaya,37.0,Perempuan,Perawatan Tubuh,Member,1,1225417,2,1225417.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0127,Fajar Nugroho,27.0,Perempuan,Parfume,Member,1,110110,2,110110.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0383,Andi Wulandari,30.0,Laki-laki,Beauty Case,Member,1,16896000,4,16896000.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0342,Farhan Putri,41.0,Laki-laki,,Member,1,636979,17,636979.0,Dewasa Matang,,
+CUST0246,Dinda Wijaya,17.0,Perempuan,MakeUp,Member,1,50834,2,50834.0,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0508,,,,,Non-Member,1,222997,3,222997.0,,,
+CUST0279,Fajar Nugroho,20.0,Perempuan,Beauty Case,Member,1,9088000,2,9088000.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0325,Nabila Wulandari,23.0,Perempuan,Skincare,Member,1,373180,6,373180.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0467,,,,,Non-Member,1,42950,2,42950.0,,,
+CUST0367,Arif Nugroho,46.0,Perempuan,Parfume,Member,1,165165,3,165165.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0186,Bagas Mahendra,31.0,Perempuan,Skincare,Member,1,160530,6,160530.0,Dewasa,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0521,Alya Anggraini,32.0,Laki-laki,Perawatan Rambut,Member,1,7648200,4,7648200.0,Dewasa,0.0,Laki-laki Dewasa Packaging
+CUST0322,Rania Mahendra,32.0,Perempuan,MakeUp,Member,2,147654,5,73827.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0243,Nadia Permata,19.0,Laki-laki,Packaging,Member,1,52472,2,52472.0,Remaja,0.0,Laki-laki Dewasa Packaging
+CUST0538,Nadia Lestari,36.0,Perempuan,Beauty Case,Member,2,15135200,7,7567600.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0109,Aurel Wulandari,29.0,Perempuan,Skincare,Member,1,217225,3,217225.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0163,,,,,Non-Member,1,54675,2,54675.0,,,
+CUST0147,Reza Pratama,17.0,Perempuan,Skincare,Member,1,89238,3,89238.0,Remaja,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0154,Rafi Hidayat,31.0,Perempuan,Tas,Member,1,1200000,1,1200000.0,Dewasa,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0215,Reza Pratama,27.0,Perempuan,Packaging,Member,1,106514,3,106514.0,Dewasa Muda,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0203,Alya Ramadhan,28.0,Laki-laki,Skincare,Member,1,93924,2,93924.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0234,Alya Wulandari,48.0,Perempuan,Perawatan Rambut,Member,1,244464,4,244464.0,Dewasa Matang,3.0,Perempuan Dewasa Packaging - High Volume
+CUST0526,Reza Puspita,20.0,Perempuan,Tas,Member,1,55055,1,55055.0,Dewasa Muda,2.0,Perempuan Dewasa Muda Skincare - Low Engagement
+CUST0389,,,,,Non-Member,1,41850,1,41850.0,,,
+CUST0425,,,,,Non-Member,1,1258058,3,1258058.0,,,
+CUST0015,Nadia Saputra,28.0,Laki-laki,Perawatan Tubuh,Member,1,58884,1,58884.0,Dewasa Muda,0.0,Laki-laki Dewasa Packaging
+CUST0312,,,,,Non-Member,1,3840000,1,3840000.0,,,

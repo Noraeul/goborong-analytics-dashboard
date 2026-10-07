@@ -1,0 +1,28 @@
+﻿Cluster,Produk_Utama_SKU,Produk_Utama,Rank,Rekomendasi_SKU,Jumlah_Order_Bersama,Persentase_CoPurchase,Produk_Rekomendasi,Kategori_Rekomendasi
+0,G06119,KOTT Beauty Case KODE D 2673 K,1,G06031,21,61.76470588235294,KOTT Beauty Case KODE PC 6002,Beauty Case
+0,G06119,KOTT Beauty Case KODE D 2673 K,2,G06075,9,26.47058823529412,KOTT Beauty Case Kode FY 9511 K,Beauty Case
+0,G06119,KOTT Beauty Case KODE D 2673 K,3,G06108,4,11.76470588235294,KOTT Beauty Case KODE D 2664 K,Beauty Case
+1,G04359,Bootle Pour OBR-06,1,G04370,48,56.470588235294116,Bootle Pour OBR-08,Kemasan Botol Solid
+1,G04359,Bootle Pour OBR-06,2,G04326,26,30.58823529411765,Bootle Pour OBR-03,Kemasan Botol Clear
+1,G04359,Bootle Pour OBR-06,3,G04337,26,30.58823529411765,Bootle Pour OBR-04,Kemasan Botol Natural
+2,G06284,KOTT Ascent Bag - Urban Clay,1,R52253,5,5.617977528089887,Accelyn Extrovert Eau De Parfum,Parfume
+2,G06284,KOTT Ascent Bag - Urban Clay,2,Q07505,4,4.49438202247191,Dermalogymazaya Refreshing 2In1 Shampoo,Perawatan Rambut
+2,G06284,KOTT Ascent Bag - Urban Clay,3,G06141,4,4.49438202247191,KOTT Beauty Case KODE  DY 9660 Y,Beauty Case
+3,Q02962,Japanesse Sakura Blossom Spa Oxygenating Shampoo,1,Q07505,26,53.06122448979592,Dermalogymazaya Refreshing 2In1 Shampoo,Perawatan Rambut
+3,Q02962,Japanesse Sakura Blossom Spa Oxygenating Shampoo,2,G17779,13,26.53061224489796,LAVADO Fresh Hair Shampoo - Aruma,Perawatan Rambut
+3,Q02962,Japanesse Sakura Blossom Spa Oxygenating Shampoo,3,G17493,12,24.489795918367346,LAVADO Fresh Hair Shampoo - Lunare,Perawatan Rambut
+4,G04326,Bootle Pour OBR-03,1,G04337,65,83.33333333333334,Bootle Pour OBR-04,Kemasan Botol Natural
+4,G04326,Bootle Pour OBR-03,2,G04359,26,33.33333333333333,Bootle Pour OBR-06,Kemasan Botol Solid
+4,G04326,Bootle Pour OBR-03,3,G04656,4,5.128205128205128,Bottle Pour OBR-36,Kemasan Botol Natural
+5,Q12752,Mazaya Eyeliner Pencil Dark Brown,1,Q12774,27,58.69565217391305,Mazaya Eyeliner Matic Black,MakeUp
+5,Q12752,Mazaya Eyeliner Pencil Dark Brown,2,Q12720,7,15.217391304347828,Mazaya Eyebrow Pencil Black,MakeUp
+5,Q12752,Mazaya Eyeliner Pencil Dark Brown,3,Q68368,4,8.695652173913043,Mazaya Mascara Peel off,MakeUp
+6,Q12720,Mazaya Eyebrow Pencil Black,1,Q12730,20,46.51162790697674,Mazaya Eyebrow Pencil Dark Brown,MakeUp
+6,Q12720,Mazaya Eyebrow Pencil Black,2,Q34939,10,23.25581395348837,DD Cream Daily Defense Skin Protector,MakeUp
+6,Q12720,Mazaya Eyebrow Pencil Black,3,Q12752,7,16.27906976744186,Mazaya Eyeliner Pencil Dark Brown,MakeUp
+7,G07318,Dermoblanc Acne Spot Treatment Gel,1,G07307,76,66.66666666666666,Dermoblanc Purifying Jelly Cleanser,Skincare
+7,G07318,Dermoblanc Acne Spot Treatment Gel,2,G07263,24,21.052631578947366,Dermoblanc Radiant Glow Brightening Essence Toner,Skincare
+7,G07318,Dermoblanc Acne Spot Treatment Gel,3,G07285,23,20.175438596491226,Dermoblanc Barrier Protection,Skincare
+8,R34235,Be With You Moisture White Hand Serum Moist Complex,1,R34268,21,53.84615384615385,Online At Home Moisture White Hand Serum Dry Skin,Perawatan Tubuh
+8,R34235,Be With You Moisture White Hand Serum Moist Complex,2,R34280,10,25.64102564102564,You Are So Cute Moisture White Hand Serum Calming,Perawatan Tubuh
+8,R34235,Be With You Moisture White Hand Serum Moist Complex,3,R34279,8,20.51282051282051,Travelling Easy On Moisture White Hand Serum Acneic Skin,Perawatan Tubuh

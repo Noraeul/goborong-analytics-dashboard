@@ -1,0 +1,122 @@
+﻿Kategori Produk,Age Group,Gender,Jumlah_Customer,Total_Quantity,Total_Spending
+Beauty Case,Remaja,Laki-laki,3,38,58009600
+Beauty Case,Remaja,Perempuan,6,587,1631427200
+Beauty Case,Dewasa Muda,Laki-laki,6,56,302443240
+Beauty Case,Dewasa Muda,Perempuan,17,121,595027680
+Beauty Case,Dewasa,Laki-laki,13,63,345813120
+Beauty Case,Dewasa,Perempuan,18,201,915902880
+Beauty Case,Dewasa Matang,Laki-laki,4,70,254773920
+Beauty Case,Dewasa Matang,Perempuan,5,186,871277024
+Beauty Case,Lansia,Perempuan,1,50,348800000
+Kemasan Botol Clear,Remaja,Perempuan,3,257,1844543
+Kemasan Botol Clear,Dewasa Muda,Laki-laki,4,1070,6961518
+Kemasan Botol Clear,Dewasa Muda,Perempuan,10,952,6367598
+Kemasan Botol Clear,Dewasa,Laki-laki,10,1690,9992891
+Kemasan Botol Clear,Dewasa,Perempuan,12,3188,22392236
+Kemasan Botol Clear,Dewasa Matang,Laki-laki,6,279,1801198
+Kemasan Botol Clear,Dewasa Matang,Perempuan,7,340,2160972
+Kemasan Botol Clear,Dewasa Matang,Tidak Menjawab,1,300,2064555
+Kemasan Botol Clear,Lansia,Laki-laki,1,6,35056
+Kemasan Botol Clear,Lansia,Perempuan,1,50,306470
+Kemasan Botol Natural,Remaja,Laki-laki,1,3,21807
+Kemasan Botol Natural,Remaja,Perempuan,2,1400,10626150
+Kemasan Botol Natural,Dewasa Muda,Laki-laki,5,1424,12296514
+Kemasan Botol Natural,Dewasa Muda,Perempuan,10,1051,12289696
+Kemasan Botol Natural,Dewasa,Laki-laki,9,2147,17731481
+Kemasan Botol Natural,Dewasa,Perempuan,13,1742,12718177
+Kemasan Botol Natural,Dewasa Matang,Laki-laki,5,505,3717677
+Kemasan Botol Natural,Dewasa Matang,Perempuan,8,309,3080641
+Kemasan Botol Natural,Dewasa Matang,Tidak Menjawab,1,144,1880688
+Kemasan Botol Natural,Lansia,Laki-laki,1,7,84684
+Kemasan Botol Solid,Remaja,Laki-laki,2,26,757496
+Kemasan Botol Solid,Remaja,Perempuan,5,2170,34786779
+Kemasan Botol Solid,Dewasa Muda,Laki-laki,7,2171,24815238
+Kemasan Botol Solid,Dewasa Muda,Perempuan,19,6108,92811626
+Kemasan Botol Solid,Dewasa,Laki-laki,16,7530,103940759
+Kemasan Botol Solid,Dewasa,Perempuan,19,8767,121298946
+Kemasan Botol Solid,Dewasa Matang,Laki-laki,7,2582,30909958
+Kemasan Botol Solid,Dewasa Matang,Perempuan,13,4840,64293675
+Kemasan Botol Solid,Dewasa Matang,Tidak Menjawab,2,882,10544808
+Kemasan Botol Solid,Lansia,Laki-laki,3,55,244411
+Kemasan Botol Solid,Lansia,Perempuan,1,1395,13165052
+Kosmetik,Remaja,Laki-laki,1,50,2485655
+Kosmetik,Remaja,Perempuan,6,57,5099814
+Kosmetik,Dewasa Muda,Laki-laki,3,289,32582413
+Kosmetik,Dewasa Muda,Perempuan,16,205,27660567
+Kosmetik,Dewasa,Laki-laki,10,111,9855716
+Kosmetik,Dewasa,Perempuan,11,250,42607113
+Kosmetik,Dewasa Matang,Laki-laki,4,40,6352200
+Kosmetik,Dewasa Matang,Perempuan,6,286,28047796
+Kosmetik,Dewasa Matang,Tidak Menjawab,1,12,2046432
+Kosmetik,Lansia,Laki-laki,1,2,116972
+Kosmetik,Lansia,Perempuan,1,150,30617055
+MakeUp,Remaja,Laki-laki,2,61,4921953
+MakeUp,Remaja,Perempuan,10,368,23351417
+MakeUp,Remaja,Tidak Menjawab,1,12,708153
+MakeUp,Dewasa Muda,Laki-laki,9,312,19656261
+MakeUp,Dewasa Muda,Perempuan,20,634,45778984
+MakeUp,Dewasa,Laki-laki,10,524,16365901
+MakeUp,Dewasa,Perempuan,26,1246,63971986
+MakeUp,Dewasa,Tidak Menjawab,1,217,13259755
+MakeUp,Dewasa Matang,Laki-laki,3,7,288403
+MakeUp,Dewasa Matang,Perempuan,6,190,9944774
+MakeUp,Lansia,Laki-laki,1,12,754536
+MakeUp,Lansia,Perempuan,1,150,17388000
+Packaging,Dewasa Muda,Laki-laki,1,100,159500
+Packaging,Dewasa,Perempuan,1,50,79750
+Packaging,Dewasa Matang,Perempuan,1,300,478500
+Parfume,Remaja,Laki-laki,1,1,55055
+Parfume,Remaja,Perempuan,4,37,2457216
+Parfume,Dewasa Muda,Laki-laki,6,21,1213012
+Parfume,Dewasa Muda,Perempuan,21,371,18181837
+Parfume,Dewasa,Laki-laki,8,154,7937865
+Parfume,Dewasa,Perempuan,14,136,6266910
+Parfume,Dewasa Matang,Laki-laki,5,42,2147657
+Parfume,Dewasa Matang,Perempuan,6,205,11132134
+Parfume,Dewasa Matang,Tidak Menjawab,1,12,640840
+Parfume,Lansia,Perempuan,1,118,5926120
+Perawatan Rambut,Remaja,Laki-laki,1,9,733050
+Perawatan Rambut,Remaja,Perempuan,6,1342,83549062
+Perawatan Rambut,Dewasa Muda,Laki-laki,6,34,1961933
+Perawatan Rambut,Dewasa Muda,Perempuan,16,130,10295316
+Perawatan Rambut,Dewasa Muda,Tidak Menjawab,2,5,266449
+Perawatan Rambut,Dewasa,Laki-laki,8,568,37719550
+Perawatan Rambut,Dewasa,Perempuan,17,1224,72102466
+Perawatan Rambut,Dewasa,Tidak Menjawab,1,120,9979200
+Perawatan Rambut,Dewasa Matang,Laki-laki,5,90,6300683
+Perawatan Rambut,Dewasa Matang,Perempuan,11,509,38512377
+Perawatan Rambut,Dewasa Matang,Tidak Menjawab,1,18,996300
+Perawatan Rambut,Lansia,Perempuan,1,50,2767500
+Perawatan Tubuh,Remaja,Perempuan,2,19,1395394
+Perawatan Tubuh,Dewasa Muda,Laki-laki,9,38,1202964
+Perawatan Tubuh,Dewasa Muda,Perempuan,18,381,16010320
+Perawatan Tubuh,Dewasa Muda,Tidak Menjawab,1,1,19950
+Perawatan Tubuh,Dewasa,Laki-laki,10,962,27488386
+Perawatan Tubuh,Dewasa,Perempuan,18,385,18757586
+Perawatan Tubuh,Dewasa Matang,Laki-laki,9,197,6854978
+Perawatan Tubuh,Dewasa Matang,Perempuan,12,1974,76920781
+Perawatan Tubuh,Dewasa Matang,Tidak Menjawab,1,6,174174
+Perawatan Tubuh,Lansia,Laki-laki,1,41,1532587
+Perawatan Tubuh,Lansia,Perempuan,1,100,2000000
+Skincare,Remaja,Laki-laki,1,23,1037942
+Skincare,Remaja,Perempuan,17,900,47717122
+Skincare,Dewasa Muda,Laki-laki,14,116,5089586
+Skincare,Dewasa Muda,Perempuan,45,2511,106739060
+Skincare,Dewasa Muda,Tidak Menjawab,3,69,3119174
+Skincare,Dewasa,Laki-laki,18,657,34293784
+Skincare,Dewasa,Perempuan,43,2449,130213110
+Skincare,Dewasa,Tidak Menjawab,1,1,406350
+Skincare,Dewasa Matang,Laki-laki,3,27,1666683
+Skincare,Dewasa Matang,Perempuan,13,504,39284287
+Skincare,Dewasa Matang,Tidak Menjawab,1,917,29086867
+Skincare,Lansia,Perempuan,1,18,3600000
+Tas Pria,Remaja,Perempuan,3,19,22800000
+Tas Pria,Dewasa Muda,Laki-laki,1,5,6000000
+Tas Pria,Dewasa Muda,Perempuan,13,195,226164000
+Tas Pria,Dewasa,Laki-laki,4,107,128220000
+Tas Pria,Dewasa,Perempuan,11,232,276000000
+Tas Pria,Dewasa Matang,Laki-laki,4,23,27408000
+Tas Pria,Dewasa Matang,Perempuan,5,252,291900000
+Tas Pria,Dewasa Matang,Tidak Menjawab,1,55,61020000
+Tas Pria,Lansia,Laki-laki,1,10,11040000
+Tas Pria,Lansia,Perempuan,1,52,62400000
